@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+.vscode/
+.DS_Store
+
+# Documentos privados (enunciado, hoja de vida)
+docs/
